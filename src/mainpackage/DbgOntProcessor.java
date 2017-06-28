@@ -478,9 +478,13 @@ public class DbgOntProcessor extends Thread {
 	
 	            int i = 1;
 	            for (Element info : employee.children()) {
-	                if (i == 1) {
+
+	            	//get the first iteration only
+	            	if (i == 1) {
 	                	String empData = info.text();
-	                    System.out.println(tabString + empData);
+
+	                	System.out.println(tabString + empData + " ---> EMPLOYEE ID:" + employee.select("a").attr("data-asnmtid"));
+						//TEMPLATE: http://www.infogo.gov.on.ca/infogo/home.html#empProfile/<EMPLOYEE ID>/en
 	                    
 	                    // extract useful employee data
 	                    
@@ -778,7 +782,7 @@ public class DbgOntProcessor extends Thread {
             }
             else 
             {
-                System.out.println("Warning: multiple fax numbers encountered – field will be left blank. Fax=" + text);
+                System.out.println("Warning: multiple fax numbers encountered ï¿½ field will be left blank. Fax=" + text);
             }
 
         }

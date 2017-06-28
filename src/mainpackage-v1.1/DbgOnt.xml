@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProgramParameters>
+  
+   <Query      TreeTimeout      = "50"/>
+   <Query      RecordTimeout    = "50"/>
+   <Query      ConnectionTimeout= "30000"/>
+   <DataSource BaseUrl          = "http://www.infogo.gov.on.ca/infogo/home.html"/>
+   <Output     OutputFile       = "ON_MAR17.TXT"/>
+   <Output     OutputPath       = "C:/eclipse/workspace/DbgOnt/data"/>
+   <System     Browser          = "CHROME"/>
+   <System     DirDelimiter     = "/"/>
+   <DataSource OrgProfile       = "1102"/>
+   <DataSource NextRecord       = "20338"/>
+   <DataSource ContinueProcessing = "YES"/>
+
+</ProgramParameters>

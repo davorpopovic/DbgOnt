@@ -1,0 +1,134 @@
+
+
+package mainpackage;
+
+import java.io.IOException;
+import java.net.MalformedURLException;
+import java.util.ArrayList;
+
+import com.gargoylesoftware.htmlunit.*;
+import com.gargoylesoftware.htmlunit.html.HtmlPage;
+
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
+
+
+
+public class NCM_Extractor {
+
+
+    /*prints all employee info in document (doc)*/
+    void getEmployees(Document doc) throws FailingHttpStatusCodeException, MalformedURLException, IOException {
+
+        Elements employees =  doc.getElementById("employees").children();
+        System.out.println(employees.size());
+
+        for (Element employee : employees){
+            //System.out.println(employee.select("span.small"));
+
+            int i = 1;
+            for (Element info : employee.children()) {
+                if (i == 1) {
+                    System.out.println(info.text());
+                }
+                i = i + 1;
+            }
+        }
+        return;
+    }
+
+    /*returns list of urls for orgs under specified doc*/
+    ArrayList<String> getReportOrgs(Document doc) throws FailingHttpStatusCodeException, MalformedURLException, IOException {
+
+        ArrayList<String> list_urls = new ArrayList<String>();
+
+        for (Element org : doc.select("div > div > div > span > a")){
+            list_urls.add("http://www.infogo.gov.on.ca/infogo/home.html#orgProfile/" + org.attr("data-org-id") + "/en");
+        }
+        return list_urls;
+    }
+
+    /*tells us whether there are more employees below*/
+    Boolean hasReportOrg(Document doc) throws FailingHttpStatusCodeException, MalformedURLException, IOException {
+        return doc.getElementsByAttributeValue("data-i18n", "orgprofile.reportingorgs").size() == 1;
+    }
+
+    void extract(String url) throws FailingHttpStatusCodeException, MalformedURLException, IOException {
+        java.util.logging.Logger.getLogger("com.gargoylesoftware").setLevel(java.util.logging.Level.OFF);
+        WebClient webClient = new WebClient();
+
+
+
+        System.out.println("Loading page now: "+url);
+
+        HtmlPage page = webClient.getPage(url);
+        webClient.waitForBackgroundJavaScript(30 * 1000);
+        String pageAsXml = page.asXml();
+        //System.out.println(pageAsXml);
+
+        Document doc = Jsoup.parse(pageAsXml);
+        System.out.println(doc.outerHtml());
+        System.out.println("======");
+
+        if(hasReportOrg(doc)){
+            System.out.println(getReportOrgs(doc));
+        }
+        else{
+            getEmployees(doc);
+        }
+        return;
+    }
+
+
+    public static void main(String[] args) throws FailingHttpStatusCodeException, MalformedURLException, IOException {
+
+        /**
+
+         java.util.logging.Logger.getLogger("com.gargoylesoftware").setLevel(java.util.logging.Level.OFF);
+         WebClient webClient = new WebClient();
+
+         String url = "http://www.infogo.gov.on.ca/infogo/home.html";
+
+         System.out.println("Loading page now: "+url);
+
+         HtmlPage page = webClient.getPage(url);
+         webClient.waitForBackgroundJavaScript(30 * 1000);
+         String pageAsXml = page.asXml();
+         //System.out.println(pageAsXml);
+
+         Document doc = Jsoup.parse(pageAsXml);
+         //System.out.println(doc.outerHtml());
+         Elements links = doc.select("ul.reduce-list-margin > a");
+
+         for(Element item:links){
+         //System.out.println(item.outerHtml());
+         //System.out.println(item.parent().outerHtml());
+
+         //go up one level
+         Element block = item.parent();
+
+         //get Organization name
+         System.out.println("Organization: " + block.select("a > strong").first().text());
+
+         //get Sub-Organization name
+         System.out.println("\t Sub Orginization(s):");
+         for (Element item_2:block.select("li > ul > li > a")){
+         System.out.println("\t\t" + item_2.html() + " (code: " + item_2.attr("data-org-id") + ")");
+         }
+         //System.out.println(block.select("li > mainpackage/NCM_Extractor.java:53ul > li > a"));
+
+         System.out.println("");
+         **/
+
+        NCM_Extractor n = new NCM_Extractor();
+
+        //1 - base case
+        n.extract("http://www.infogo.gov.on.ca/infogo/home.html#orgProfile/2/en");
+
+        //2 - one level down
+
+
+    }
+}

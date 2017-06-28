@@ -1,0 +1,633 @@
+Loading page now: http://www.infogo.gov.on.ca/infogo/home.html#empProfile/169920/en
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<html lang="en" style="" class=" js flexbox no-flexboxlegacy canvas canvastext webgl touch geolocation postmessage no-websqldatabase no-indexeddb hashchange history no-draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface no-generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg no-inlinesvg smil svgclippaths">
+ <head> 
+  <style>
+      article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}mark{background:#FF0;color:#000}template{display:none}
+    </style> 
+  <meta http-equiv="X-UA-Compatible" content="IE=11; IE=9; IE=EDGE"> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta http-equiv="Cache-control" content="no-cache"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>
+      INFO-GO | Government of Ontario Employee and Organization Directory
+    </title> 
+  <link type="text/css" href="lib/css/foundation.min-6.2.0.css" rel="stylesheet"> 
+  <link type="text/css" href="lib/css/foundation-icons.css" rel="stylesheet"> 
+  <link type="text/css" href="resources/css/normalize.css" rel="stylesheet"> 
+  <link type="text/css" href="resources/css/combined.css" rel="stylesheet"> 
+  <link type="text/css" href="resources/dist/infogo-6.0.2.css" rel="stylesheet"> 
+  <link rel="icon" type="image/png" href="resources/img/favicon.png"> 
+  <script async src="https://www.google-analytics.com/analytics.js">
+    </script> 
+  <script src="lib/modernizr.js">
+    </script> 
+  <meta class="foundation-mq"> 
+ </head> 
+ <body style=""> 
+  <div id="home"> 
+   <div> 
+    <div id="inter"> 
+     <div id="headerDiv"> 
+      <div> 
+       <a class="show-for-sr show-on-focus" href="#content"> <span data-i18n="header.skiptomaincontent"> Skip to main content </span> </a> 
+      </div> 
+      <header id="header" class="default"> 
+       <div> 
+        <header id="headerDiv" class="default" role="banner"> 
+         <div class="row"> 
+          <p class="visually-hidden" href="javascript:void(0)"> URL: https://www.ontario.ca/page/government </p> 
+          <div class="small-12 medium-3 columns site-logo-print--wrapper"> 
+           <div> 
+            <div> 
+             <div class="site-logo-print--wrapper" ministry="Cabinet Office"> 
+              <a ga-label="logo" ga-category="Header Outbound Link" href="https://www.ontario.ca/page/government"> <span class="iconWrapperLongNoBg iconLogoHeader"> <span class="icon-ontarioLogo" aria-hidden="true"> </span> <span class="visually-hidden"> Government of Ontario home page </span> </span> </a> 
+              <img class="site-logo-print" alt="Government of Ontario" src="resources/img/ontario2x-print.png"> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="medium-6 columns show-for-medium-up" align="center"> 
+           <h1 class="headertitle h3" tabindex="0"> INFO-GO </h1> 
+          </div> 
+          <div class="small-5 columns small-push-4 show-for-small-only"> 
+           <h1 class="headertitle h4" tabindex="0" style="padding-top: 25px"> INFO-GO </h1> 
+          </div> 
+          <div class="small-2 medium-3 columns"> 
+           <span> <a class="show-for-medium-down header-link small left small-push-3" href="#lang" lang="fr" data-lang-id="fr"> <abbr title="français"> FR </abbr> </a> <a class="show-for-large-up header-link small left small-push-3" href="#lang" lang="fr" data-lang-id="fr"> français </a> </span> 
+           <button id="menuButton" class="button radius header-button header-button--menu uppercase right" data-position-class="bottom" ga-category="Header Outbound Link" data-toggle="menu-dropdown" position="bottom" aria-controls="menu-dropdown" aria-haspopup="true" role="button" aria-expanded="false" data-is-focus="false" data-yeti-box="menu-dropdown"> <span class="iconWrapperNoBgM"> <span class="icon-menu show-for-medium-up" aria-hidden="true"> </span> </span> <span data-i18n="header.menu.button"> MENU </span> </button> 
+          </div> 
+         </div> 
+         <div class="row"> 
+          <div class="small-10 small-push-2 medium-6 medium-push-6 large-5 large-push-7 column end"> 
+           <nav aria-label="Primary navigation" role="navigation"> 
+            <div id="menu-dropdown" class="dropdown-pane" data-close-on-click="true" data-dropdown="29gzhn-dropdown" data-auto-focus="true" aria-hidden="true" data-yeti-box="menu-dropdown" data-resize="menu-dropdown" aria-labelledby="menuButton"> 
+             <ul style="list-style: none;" class="small"> 
+              <li> <a ga-category="Header Outbound Link" ga-label="Arts and culture" href="https://www.ontario.ca/page/arts-and-culture"> Arts and culture </a> </li> 
+              <li> <a ga-category="Header Outbound Link" ga-label="Business and economy" href="https://www.ontario.ca/page/business-and-economy"> Business and economy </a> </li> 
+              <li> <a ga-category="Header Outbound Link" ga-label="Driving and roads" href="https://www.ontario.ca/page/driving-and-roads"> Driving and roads </a> </li> 
+              <li> <a ga-category="Header Outbound Link" ga-label="Education and training" href="https://www.ontario.ca/page/education-and-training"> Education and training </a> </li> 
+              <li> <a ga-category="Header Outbound Link" ga-label="Environment and energy" href="https://www.ontario.ca/page/environment-and-energy"> Environment and energy </a> </li> 
+              <li> <a ga-category="Header Outbound Link" ga-label="Government" href="https://www.ontario.ca/page/government"> Government </a> </li> 
+              <li> <a ga-category="Header Outbound Link" ga-label="Health and wellness" href="https://www.ontario.ca/page/health-and-wellness"> Health and wellness </a> </li> 
+              <li> <a ga-category="Header Outbound Link" ga-label="Home and community" href="https://www.ontario.ca/page/home-and-community"> Home and community </a> </li> 
+              <li> <a ga-category="Header Outbound Link" ga-label="Jobs and employment" href="https://www.ontario.ca/page/jobs-and-employment"> Jobs and employment </a> </li> 
+              <li> <a ga-category="Header Outbound Link" ga-label="Law and safety" href="https://www.ontario.ca/page/law-and-safety"> Law and safety </a> </li> 
+              <li> <a ga-category="Header Outbound Link" ga-label="Rural and north" href="https://www.ontario.ca/page/rural-and-north"> Rural and north </a> </li> 
+              <li> <a ga-category="Header Outbound Link" ga-label="Taxes and benefits" href="https://www.ontario.ca/page/taxes-and-benefits"> Taxes and benefits </a> </li> 
+              <li> <a ga-category="Header Outbound Link" ga-label="Travel and recreation" href="https://www.ontario.ca/page/travel-and-recreation"> Travel and recreation </a> </li> 
+             </ul> 
+            </div> 
+           </nav> 
+          </div> 
+         </div> 
+        </header> 
+       </div> 
+      </header> 
+      <div id="subheader"> 
+       <div> 
+        <div class="row"> 
+         <div class="small-6 columns" align="left"> 
+          <a href="home.html" data-i18n="header.home" class="small"> INFO-GO Home </a> 
+         </div> 
+        </div> 
+        <br> 
+        <div id="interContent" class="row" align="center" style="padding-bottom: 10px"> 
+         <h2 class="h4" data-i18n="header.headtitle1" tabindex="0"> Government of Ontario Employee and Organization Directory </h2> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div id="content"> 
+      <div id="infogo"> 
+       <div id="noticeMsg" style="display: none;"> 
+        <div> 
+        </div> 
+       </div> 
+       <div id="error" style="display: none;"> 
+       </div> 
+       <div id="searchPage" style="display: none;"> 
+        <div id="search"> 
+         <div id="searchPanel" role="search"> 
+          <fieldset style="border-width: 0px"> 
+           <legend> <h3 class="show-for-sr" for="keyword"> INFO-GO Search </h3> </legend> 
+           <div id="search" class="row"> 
+            <div class="row" style="padding-top: 10px" role="group"> 
+             <div class="small-12 medium-12 large-12 columns"> 
+              <strong> <span data-i18n="search.searchfor" tabindex="0"> Search for: </span> </strong> &nbsp;&nbsp; 
+              <div class="show-for-small-only"> 
+              </div> 
+              <input id="employee" type="radio" value="emp" name="searchType" aria-checked="false"> 
+              <label class="small" for="employee" data-i18n="search.employee"> Employee </label> 
+              <input id="organization" type="radio" value="org" name="searchType" checked aria-checked="true"> 
+              <label class="small" for="organization" data-i18n="search.organization"> Organization </label> 
+             </div> 
+            </div> 
+            <div class="row" style="padding-top: 15px"> 
+             <div class="small-12 medium-5 columns"> 
+              <label class="show-for-sr" for="keyword"> Enter Search Keywords </label> 
+              <input type="text" id="keyword" value="" data-attr-i18n="placeholder" placeholder="name, description, phone, address" class="radius" maxlength="100" aria-required="true"> 
+              <span id="inputError" class="input-error small" style="display: none"> </span> 
+             </div> 
+             <div class="small-12 medium-4 columns"> 
+              <label class="show-for-sr" for="topOrgs"> Select Top Organization </label> 
+              <select id="topOrgs" aria-label="Select Top Organization"> 
+               <!-- english  --> <option style="padding: 3px" value="-272">  Agencies  </option> <option style="padding: 3px" value="-276">  Universities and Community Colleges  </option> <option style="padding: 3px" value="0" selected>  All Organizations  </option> <option style="padding: 3px" value="2698"> Advanced Education and Skills Development </option> <option style="padding: 3px" value="185"> Agriculture, Food and Rural Affairs </option> <option style="padding: 3px" value="232"> Attorney General </option> <option style="padding: 3px" value="152"> Auditor General </option> <option style="padding: 3px" value="168"> Cabinet Office </option> <option style="padding: 3px" value="1802"> Chief Administrative Officers' Forum </option> <option style="padding: 3px" value="3736"> Children and Youth Services </option> <option style="padding: 3px" value="405"> Citizenship and Immigration </option> <option style="padding: 3px" value="2697"> Community Safety and Correctional Services </option> <option style="padding: 3px" value="454"> Community and Social Services </option> <option style="padding: 3px" value="645"> Economic Development and Growth </option> <option style="padding: 3px" value="649"> Education </option> <option style="padding: 3px" value="150"> Elections Ontario </option> <option style="padding: 3px" value="5045"> Energy </option> <option style="padding: 3px" value="707"> Environment and Climate Change </option> <option style="padding: 3px" value="146"> Environmental Commissioner of Ontario </option> <option style="padding: 3px" value="813"> Finance </option> <option style="padding: 3px" value="108018"> Financial Accountability Office </option> <option style="padding: 3px" value="6133"> Financial Controllership Committee (FCC) </option> <option style="padding: 3px" value="904"> Francophone Affairs </option> <option style="padding: 3px" value="1803"> Freedom of Information and Privacy Coordinators </option> <option style="padding: 3px" value="1804"> French-Language Services Coordinators </option> <option style="padding: 3px" value="167"> Government House Leader </option> <option style="padding: 3px" value="3142"> Government Pages Coordinators </option> <option style="padding: 3px" value="1102"> Government and Consumer Services </option> <option style="padding: 3px" value="909"> Health and Long-Term Care </option> <option style="padding: 3px" value="125649"> Housing </option> <option style="padding: 3px" value="3385"> INFO-GO COORDINATORS </option> <option style="padding: 3px" value="1175"> Indigenous Relations and Reconciliation </option> <option style="padding: 3px" value="147"> Information and Privacy Commissioner of Ontario </option> <option style="padding: 3px" value="125586"> Infrastructure </option> <option style="padding: 3px" value="5593"> Intergovernmental Affairs, Cabinet Office </option> <option style="padding: 3px" value="125677"> International Trade </option> <option style="padding: 3px" value="997"> Labour </option> <option style="padding: 3px" value="1805"> Legislative Assembly Press Gallery </option> <option style="padding: 3px" value="4"> Legislative Assembly of Ontario </option> <option style="padding: 3px" value="97"> Legislative Offices </option> <option style="padding: 3px" value="1142"> Municipal Affairs </option> <option style="padding: 3px" value="1183"> Natural Resources and Forestry </option> <option style="padding: 3px" value="1403"> Northern Development and Mines </option> <option style="padding: 3px" value="5065"> Office of the Chair of Cabinet </option> <option style="padding: 3px" value="4722"> Office of the French Language Services Commissioner </option> <option style="padding: 3px" value="151"> Office of the Integrity Commissioner </option> <option style="padding: 3px" value="2"> Office of the Lieutenant Governor of Ontario </option> <option style="padding: 3px" value="159"> Office of the Ombudsman </option> <option style="padding: 3px" value="1809"> Office of the Premier </option> <option style="padding: 3px" value="3747"> Office of the Provincial Advocate for Children and Youth </option> <option style="padding: 3px" value="3939"> Ontario Government Libraries Council </option> <option style="padding: 3px" value="6470"> Research, Innovation and Science </option> <option style="padding: 3px" value="3"> The Executive Council of Ontario </option> <option style="padding: 3px" value="3398"> Tourism, Culture and Sport </option> <option style="padding: 3px" value="1713"> Transportation </option> <option style="padding: 3px" value="7183"> Treasury Board Secretariat </option> <option style="padding: 3px" value="99763"> Washington Office </option> </select> 
+             </div> 
+             <div class="small-12 medium-3 columns"> 
+              <button id="searchBtn" class="button info tiny" aria-label="Search" data-i18n="search.go.button"> <strong> Search </strong> </button> 
+             </div> 
+            </div> 
+           </div> 
+          </fieldset> 
+         </div> 
+        </div> 
+       </div> 
+       <div id="browseCatePage" style="display: none;"> 
+        <div> 
+         <div id="categoryPanel"> 
+          <div id="browseOrgs" class="row" style="padding-bottom: 10px;"> 
+           <div class="small-12 medium-12 large-12 columns"> 
+            <div> 
+             <h3 class="large" tabindex="0"> <span data-i18n="browsebyorg.title"> Browse by Organization </span> </h3> 
+            </div> 
+            <div class="row no-left-padding"> 
+             <ul class="reduce-list-margin" style="list-style-type: none; margin-bottom: -0.1rem"> 
+              <a data-id="268" href="#orgCatDetail_268"> <span class="icon-chevronRight"> </span> <strong> Lieutenant Governor </strong> </a> 
+              <li> 
+               <ul id="orgCatDetail_268" style="display:none; list-style-type: none;"> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2" class="small"> Office of the Lieutenant Governor of Ontario </a> </li> 
+               </ul> </li> 
+             </ul> 
+             <ul class="reduce-list-margin" style="list-style-type: none; margin-bottom: -0.1rem"> 
+              <a data-id="269" href="#orgCatDetail_269"> <span class="icon-chevronRight"> </span> <strong> Legislative </strong> </a> 
+              <li> 
+               <ul id="orgCatDetail_269" style="display:none; list-style-type: none;"> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4" class="small"> Legislative Assembly of Ontario </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1805" class="small"> Legislative Assembly Press Gallery </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="97" class="small"> Legislative Offices </a> </li> 
+               </ul> </li> 
+             </ul> 
+             <ul class="reduce-list-margin" style="list-style-type: none; margin-bottom: -0.1rem"> 
+              <a data-id="270" href="#orgCatDetail_270"> <span class="icon-chevronRight"> </span> <strong> Independent Offices of the Legislative Assembly </strong> </a> 
+              <li> 
+               <ul id="orgCatDetail_270" style="display:none; list-style-type: none;"> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="152" class="small"> Auditor General </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="150" class="small"> Elections Ontario </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="146" class="small"> Environmental Commissioner of Ontario </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="108018" class="small"> Financial Accountability Office </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="147" class="small"> Information and Privacy Commissioner of Ontario </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4722" class="small"> Office of the French Language Services Commissioner </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="151" class="small"> Office of the Integrity Commissioner </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="159" class="small"> Office of the Ombudsman </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="3747" class="small"> Office of the Provincial Advocate for Children and Youth </a> </li> 
+               </ul> </li> 
+             </ul> 
+             <ul class="reduce-list-margin" style="list-style-type: none; margin-bottom: -0.1rem"> 
+              <a data-id="271" href="#orgCatDetail_271"> <span class="icon-chevronRight"> </span> <strong> Ministries, Secretariats and Offices </strong> </a> 
+              <li> 
+               <ul id="orgCatDetail_271" style="display:none; list-style-type: none;"> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2698" class="small"> Advanced Education and Skills Development </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="185" class="small"> Agriculture, Food and Rural Affairs </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="232" class="small"> Attorney General </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="168" class="small"> Cabinet Office </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="3736" class="small"> Children and Youth Services </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="405" class="small"> Citizenship and Immigration </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="454" class="small"> Community and Social Services </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2697" class="small"> Community Safety and Correctional Services </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="645" class="small"> Economic Development and Growth </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="649" class="small"> Education </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="5045" class="small"> Energy </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="707" class="small"> Environment and Climate Change </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="813" class="small"> Finance </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="904" class="small"> Francophone Affairs </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1102" class="small"> Government and Consumer Services </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="167" class="small"> Government House Leader </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="909" class="small"> Health and Long-Term Care </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="125649" class="small"> Housing </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1175" class="small"> Indigenous Relations and Reconciliation </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="125586" class="small"> Infrastructure </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="5593" class="small"> Intergovernmental Affairs, Cabinet Office </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="125677" class="small"> International Trade </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="997" class="small"> Labour </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1142" class="small"> Municipal Affairs </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1183" class="small"> Natural Resources and Forestry </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1403" class="small"> Northern Development and Mines </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="5065" class="small"> Office of the Chair of Cabinet </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1809" class="small"> Office of the Premier </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="6470" class="small"> Research, Innovation and Science </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="3398" class="small"> Tourism, Culture and Sport </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1713" class="small"> Transportation </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="7183" class="small"> Treasury Board Secretariat </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="99763" class="small"> Washington Office </a> </li> 
+               </ul> </li> 
+             </ul> 
+             <ul class="reduce-list-margin" style="list-style-type: none; margin-bottom: -0.1rem"> 
+              <a data-id="272" href="#orgCatDetail_272"> <span class="icon-chevronRight"> </span> <strong> Agencies </strong> </a> 
+              <li> 
+               <ul id="orgCatDetail_272" style="display:none; list-style-type: none;"> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1840" class="small"> Academic and Experience Requirements Committee of the Association of Ontario Land Surveyors </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1133" class="small"> Advertising Review Board </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4012" class="small"> Advisory Council on Drinking Water Quality and Testing Standards </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1835" class="small"> Agricorp </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="227" class="small"> Agricultural Research Institute of Ontario (ARIO) </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4580" class="small"> Agriculture, Food and Rural Affairs Appeal Tribunal </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2253" class="small"> Alcohol and Gaming Commission of Ontario </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1820" class="small"> Algonquin Forestry Authority </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1402" class="small"> Algonquin Forestry Authority - Pembroke </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="441" class="small"> Art Gallery of Ontario </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2041" class="small"> Bail Verification and Supervision Program </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4640" class="small"> Board of Negotiation </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="978" class="small"> Cancer Care Ontario </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="3462" class="small"> Chief Inquiry Officer - Expropriations Act </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="3808" class="small"> Chiropody Review Committee </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="3809" class="small"> Chiropractic Review Committee </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="6364" class="small"> College of Trades Appointments Council </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4726" class="small"> Conflict of Interest Commissioner </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="983" class="small"> Consent and Capacity Board </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1852" class="small"> Council of the Association of Ontario Land Surveyors </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="5843" class="small"> Death Investigation Oversight Council </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="3810" class="small"> Dental Review Committee </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1849" class="small"> Deposit Insurance Corporation of Ontario </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1841" class="small"> Education Quality and Accountability Office </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="5159" class="small"> eHealth Ontario </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="6309" class="small"> Environment and Land Tribunals Ontario </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="844" class="small"> Financial Services Commission of Ontario </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1856" class="small"> Fire Safety Commission </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="228" class="small"> Grain Financial Protection Board </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="981" class="small"> Health Professions Appeal and Review Board </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4497" class="small"> Health Quality Ontario </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="982" class="small"> Health Services Appeal and Review Board </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="6129" class="small"> HealthForceOntario Marketing and Recruitment Agency </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="6369" class="small"> Higher Education Quality Council of Ontario </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="6439" class="small"> Human Rights Legal Support Centre </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4266" class="small"> Infrastructure Ontario </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="3409" class="small"> Judicial Appointments Advisory Committee </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1829" class="small"> Languages of Instruction Commission of Ontario </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2642" class="small"> Legal Aid Ontario </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="643" class="small"> Liquor Control Board of Ontario </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="229" class="small"> Livestock Financial Protection Board </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="230" class="small"> Livestock Medicines Advisory Committee </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2237" class="small"> McMichael Canadian Art Collection </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1846" class="small"> Medical Eligibility Committee </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1828" class="small"> Metro Toronto Convention Centre Corporation </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4518" class="small"> Metrolinx </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1832" class="small"> Minister's Advisory Council on Special Education </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2525" class="small"> Niagara Escarpment Commission </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1821" class="small"> Niagara Parks Commission </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4535" class="small"> Normal Farm Practices Protection Board </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2605" class="small"> Office for Victims of Crime </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1051" class="small"> Office of the Employer Adviser </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4648" class="small"> Office of the Fairness Commissioner </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="6708" class="small"> Office of the Independent Police Review Director </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1062" class="small"> Office of the Worker Adviser </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="442" class="small"> Ontario Arts Council </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="5526" class="small"> Ontario Capital Growth Corporation </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1824" class="small"> Ontario Clean Water Agency </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2854" class="small"> Ontario Educational Communications Authority (TVO) </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2728" class="small"> Ontario Electricity Financial Corporation </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="809" class="small"> Ontario Energy Board </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4581" class="small"> Ontario Farm Products Marketing Commission </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1869" class="small"> Ontario Film Review Board </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="860" class="small"> Ontario Financing Authority </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1850" class="small"> Ontario Fish and Wildlife Heritage Commission </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="231" class="small"> Ontario Food Terminal Board </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="6362" class="small"> Ontario French-Language Education Communications Authority </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1853" class="small"> Ontario Geographic Names Board </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1816" class="small"> Ontario Graduate Scholarship Program - Selection Board </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2810" class="small"> Ontario Hepatitis C Assistance Plan Review Committee </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="444" class="small"> Ontario Heritage Trust </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1716" class="small"> Ontario Highway Transport Board </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="433" class="small"> Ontario Human Rights Commission </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1077" class="small"> Ontario Labour Relations Board </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2052" class="small"> Ontario Library Service - North </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1818" class="small"> Ontario Lottery and Gaming Corporation </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="443" class="small"> Ontario Media Development Corporation </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="979" class="small"> Ontario Mental Health Foundation </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1823" class="small"> Ontario Northland Transportation Commission </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1140" class="small"> Ontario Pension Board </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="648" class="small"> Ontario Place Corporation </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1814" class="small"> Ontario Police Arbitration Commission </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4124" class="small"> Ontario Power Generation </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="980" class="small"> Ontario Review Board </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="450" class="small"> Ontario Science Centre </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="873" class="small"> Ontario Securities Commission </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1839" class="small"> Ontario Student Assistance Program Financial Eligibility Advisory Committee </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2070" class="small"> Ontario Tourism Marketing Partnership Corporation </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="440" class="small"> Ontario Trillium Foundation </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1141" class="small"> OPSEU Pension Trust </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="3811" class="small"> Optometry Review Committee </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1822" class="small"> Ottawa Convention Centre </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1836" class="small"> Ottawa River Regulation Planning Board </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1819" class="small"> Pay Equity Office </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="812" class="small"> Pesticides Advisory Committee </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="6177" class="small"> Physician Payment Review Board </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="3160" class="small"> Postsecondary Education Quality Assessment Board </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1831" class="small"> Provincial Judges Pension Board </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="693" class="small"> Provincial Schools Authority </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="6438" class="small"> Public Accountants Council </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="5139" class="small"> Public Health Ontario </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1082" class="small"> Public Service Appeal Boards </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1105" class="small"> Public Service Commission </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1848" class="small"> Rabies Advisory Committee </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4502" class="small"> Redap </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="452" class="small"> Royal Botanical Gardens </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1854" class="small"> Royal Ontario Museum </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="6668" class="small"> Safety, Licensing Appeals and Standards Tribunals Ontario </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="453" class="small"> Science North </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1838" class="small"> Shibogama Interim Planning Board </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="5891" class="small"> Social Justice Tribunals Ontario </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2051" class="small"> Southern Ontario Library Service </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="235" class="small"> Special Investigations Unit </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2078" class="small"> St Lawrence Parks Commission </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="3396" class="small"> The Owen Sound Transportation Company Limited </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="6395" class="small"> Training Completion Assurance Fund Advisory Board </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="5048" class="small"> Transitional Physician Audit Panel </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="3407" class="small"> Trillium Gift of Life Network </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4119" class="small"> Walkerton Clean Water Centre </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="5406" class="small"> Waterfront Toronto </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1845" class="small"> Windigo Interim Planning Board </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1825" class="small"> Workplace Safety and Insurance Appeals Tribunal (Formerly Workers' Compensation Appeals Tribunal) </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1826" class="small"> Workplace Safety and Insurance Board </a> </li> 
+               </ul> </li> 
+             </ul> 
+             <ul class="reduce-list-margin" style="list-style-type: none; margin-bottom: -0.1rem"> 
+              <a data-id="273" href="#orgCatDetail_273"> <span class="icon-chevronRight"> </span> <strong> Executive Council </strong> </a> 
+              <li> 
+               <ul id="orgCatDetail_273" style="display:none; list-style-type: none;"> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="3" class="small"> The Executive Council of Ontario </a> </li> 
+               </ul> </li> 
+             </ul> 
+             <ul class="reduce-list-margin" style="list-style-type: none; margin-bottom: -0.1rem"> 
+              <a data-id="274" href="#orgCatDetail_274"> <span class="icon-chevronRight"> </span> <strong> OPS Councils and Committees </strong> </a> 
+              <li> 
+               <ul id="orgCatDetail_274" style="display:none; list-style-type: none;"> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1802" class="small"> Chief Administrative Officers' Forum </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="6133" class="small"> Financial Controllership Committee (FCC) </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="3939" class="small"> Ontario Government Libraries Council </a> </li> 
+               </ul> </li> 
+             </ul> 
+             <ul class="reduce-list-margin" style="list-style-type: none; margin-bottom: -0.1rem"> 
+              <a data-id="275" href="#orgCatDetail_275"> <span class="icon-chevronRight"> </span> <strong> Coordinator Groups </strong> </a> 
+              <li> 
+               <ul id="orgCatDetail_275" style="display:none; list-style-type: none;"> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1803" class="small"> Freedom of Information and Privacy Coordinators </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="1804" class="small"> French-Language Services Coordinators </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="3142" class="small"> Government Pages Coordinators </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="3385" class="small"> INFO-GO COORDINATORS </a> </li> 
+               </ul> </li> 
+             </ul> 
+             <ul class="reduce-list-margin" style="list-style-type: none; margin-bottom: -0.1rem"> 
+              <a data-id="276" href="#orgCatDetail_276"> <span class="icon-chevronRight"> </span> <strong> Universities and Community Colleges </strong> </a> 
+              <li> 
+               <ul id="orgCatDetail_276" style="display:none; list-style-type: none;"> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2345" class="small"> Algonquin College of Applied Arts and Technology </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4478" class="small"> Brock University </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2339" class="small"> Cambrian College of Applied Arts and Technology </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2352" class="small"> Canadore College of Applied Arts and Technology </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4479" class="small"> Carleton University </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2357" class="small"> Centennial College of Applied Arts and Technology </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2366" class="small"> Collège Boréal </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2376" class="small"> Conestoga College of Applied Arts and Technology </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2387" class="small"> Confederation College of Applied Arts and Technology </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2393" class="small"> Durham College of Applied Arts and Technology </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2403" class="small"> Fanshawe College of Applied Arts and Technology </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2409" class="small"> George Brown College of Applied Arts and Technology </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2415" class="small"> Georgian College of Applied Arts and Technology </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2421" class="small"> Humber College of Applied Arts and Technology </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2427" class="small"> La Cité Collégiale, Collège D'arts Appliqués Et De Technologie </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4481" class="small"> Lakehead University </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2434" class="small"> Lambton College of Applied Arts and Technology </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4482" class="small"> Laurentian University </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2444" class="small"> Loyalist College of Applied Arts and Technology </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4483" class="small"> McMaster University </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2451" class="small"> Mohawk College of Applied Arts and Technology </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2655" class="small"> Niagara College of Applied Arts and Technology </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4484" class="small"> Nipissing University </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2457" class="small"> Northern College of Applied Arts and Technology </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4485" class="small"> Ontario College of Art and Design </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4477" class="small"> Policy Research and Issues Management </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4486" class="small"> Queen's University </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4488" class="small"> Ryerson University </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2465" class="small"> Sault College of Applied Arts and Technology </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2471" class="small"> Seneca College of Applied Arts and Technology </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2477" class="small"> Sheridan College of Applied Arts and Technology </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2484" class="small"> Sir Sandford Fleming College of Applied Arts and Technology </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2493" class="small"> St Clair College of Applied Arts and Technology </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="2500" class="small"> St Lawrence College of Applied Arts and Technology </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4496" class="small"> Trent University </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4480" class="small"> University of Guelph </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4487" class="small"> University of Ontario Institute of Technology </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4492" class="small"> University of Ottawa </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4489" class="small"> University of Toronto </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4490" class="small"> University of Waterloo </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4493" class="small"> University of Western Ontario </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4494" class="small"> University of Windsor </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4491" class="small"> Wilfrid Laurier University </a> </li> 
+                <li class="reduce-list-margin"> <a href="#" data-org-id="4495" class="small"> York University </a> </li> 
+               </ul> </li> 
+             </ul> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div id="searchResults" style="display: none;"> 
+       </div> 
+       <div id="details"> 
+        <div> 
+         <div class="row" style="padding-left: 0px"> 
+          <div class="small-12 columns"> 
+           <h2 class="h5"> <a data-org-id="2" href=""> Office of the Lieutenant Governor of Ontario </a> </h2> 
+          </div> 
+         </div> 
+         <div class="row" style="padding-top: 20px; padding-left: 0px"> 
+          <div class="small-12 columns" tabindex="0"> 
+           <!-- Individual Details --> 
+           <div class="row"> 
+            <div class="small-12 columns" tabindex="0"> 
+             <h3 class="h6"> <span class="large"> Eugene Berezovsky </span> </h3> 
+            </div> 
+            <div class="small-12 columns"> 
+             <span class="small"> <span tabindex="0"> Manager, Event Operations </span> </span> 
+            </div> 
+           </div> 
+           <div class="row"> 
+            <!-- Contact Details / Address Section --> 
+            <div class="small-12 medium-6 large-6 columns"> 
+             <div class="row" style="padding-top: 20px"> 
+              <div class="small-12 medium-4 large-3 no-right-padding columns"> 
+               <div class="show-for-small-only"> 
+                <strong> <span class="small" data-i18n="empprofile.telephone" tabindex="0"> Phone: </span> </strong> 
+               </div> 
+               <div class="show-for-medium-up"> 
+                <span class="small" data-i18n="empprofile.telephone" tabindex="0"> Phone: </span> 
+               </div> 
+              </div> 
+              <div class="small-12 medium-8 large-9  columns"> 
+               <div class="row" style="padding-bottom: 3px" tabindex="0"> 
+                <div class="small-12 medium-8 large-9 columns"> 
+                 <span class="small"> 416-325-1625 </span> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+             <div class="row" style="padding-top: 10px"> 
+              <div class="small-12 medium-4 large-3 columns no-right-padding"> 
+               <div class="show-for-small-only"> 
+                <strong> <span data-i18n="profile.email" class="small" tabindex="0"> Email: </span> </strong> 
+               </div> 
+               <div class="show-for-medium-up"> 
+                <span data-i18n="profile.email" class="small" tabindex="0"> Email: </span> 
+               </div> 
+              </div> 
+              <div class="small-12 medium-8 large-9 columns"> 
+               <div class="row row-wrap"> 
+                <div class="small-12 medium-12 large-12 columns"> 
+                 <a href="mailTo:eugene.berezovsky@ontario.ca" class="small"> eugene.berezovsky@ontario.ca </a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+            <div class="small-12 medium-6 large-6 columns"> 
+             <div id="map" class="row" style="padding-top: 20px; height: 250px; position: static; zoom: 1;" align="right"> 
+              <div id="gmap"> 
+               <div> 
+                <div class="small-12 columns"> 
+                 <a href="https://www.google.ca/maps/place/Queen's Park+Toronto+ON" target="new"> 
+                  <div class="show-for-small-only"> 
+                   <img alt="primary address map (mobile view)" onload="commonModule.unblockMap()" ismap src="https://maps.googleapis.com/maps/api/staticmap?region=CA&amp;zoom=16&amp;scale=1&amp;center=Queen's Park+Toronto+ON&amp;key=AIzaSyB4_tDmTX2yIgiDQaILp5WYLK7vBDEnnQY&amp;language=en&amp;markers=color:red%7Clabel:A%7CQueen's Park+Toronto+ON&amp;size=380x250" width="380" height="100"> 
+                  </div> 
+                  <div class="show-for-medium-up"> 
+                   <img alt="primary address map" onload="commonModule.unblockMap()" ismap src="https://maps.googleapis.com/maps/api/staticmap?region=CA&amp;zoom=16&amp;scale=1&amp;center=Queen's Park+Toronto+ON&amp;key=AIzaSyB4_tDmTX2yIgiDQaILp5WYLK7vBDEnnQY&amp;language=en&amp;markers=color:red%7Clabel:A%7CQueen's Park+Toronto+ON&amp;size=780x300" width="780" height="300"> 
+                  </div> </a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+             <div class="row" style="padding-top: 10px" tabindex="0"> 
+              <div class="small-12 medium-4 large-4 columns"> 
+               <div class="show-for-small-only"> 
+                <strong> <span class="small" data-i18n="profile.primaryaddress"> Primary Address: </span> </strong> 
+               </div> 
+               <div class="show-for-medium-up"> 
+                <span class="small" data-i18n="profile.primaryaddress"> Primary Address: </span> 
+               </div> 
+              </div> 
+              <div class="small-12 medium-8 large-8 columns"> 
+               <span class="small"> Main Legislative Bldg, Queen's Park, Toronto, ON M7A 1A1 </span> 
+              </div> 
+             </div> 
+             <div class="row" style="padding-top: 10px" tabindex="0"> 
+              <div class="small-12 medium-4 large-4 columns"> 
+               <div class="show-for-small-only"> 
+                <strong> <span class="small" data-i18n="profile.mailaddress"> Mailing Address: </span> </strong> 
+               </div> 
+               <div class="show-for-medium-up"> 
+                <span class="small" data-i18n="profile.mailaddress"> Mailing Address: </span> 
+               </div> 
+              </div> 
+              <div class="small-12 medium-8 large-8 columns"> 
+               <span class="small"> Main Legislative Bldg, Queen's Park, Toronto, ON M7A 1A1 </span> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="row" style="padding-top: 20px;"> 
+            <div class="small-12 columns"> 
+            </div> 
+           </div> 
+           <div class="row" style="padding-top: 20px;"> 
+            <div class="small-12 columns"> 
+            </div> 
+           </div> 
+           <div class="row" style="padding-top: 20px; padding-bottom: 40px;"> 
+            <div class="small-12 columns"> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="helpContent" style="display: none;"> 
+       <div id="infogoHelp"> 
+       </div> 
+      </div> 
+     </div> 
+     <div id="footerDiv"> 
+      <footer id="footer"> 
+       <div> 
+        <div class="row"> 
+         <div class="small-12 large-3 medium-4 columns contact"> 
+          <ul class="inline-list block-list-medium-up"> 
+           <li style="padding-bottom: 5px"> <a target="_blank" href="https://www.ontario.ca/en/contacts/feedback/index.htm" ga-category="Footer Outbound Link" ga-label="Contact Us"> Contact Us </a> </li> 
+           <li> <a href="#help/en"> <span data-i18n="footer.link.infogohelp"> INFO-GO Help </span> </a> </li> 
+          </ul> 
+         </div> 
+         <div class="small-12 large-2 medium-3 columns contact"> 
+          <ul class="inline-list block-list-medium-up"> 
+           <li> <h2 data-i18n="footer.followus"> Follow Us </h2> </li> 
+           <li> <a ga-label="facebook" ga-category="Footer Outbound Link" href="https://www.facebook.com/ONgov"> <span class="iconWrapperLong"> <span class="icon-facebookLong" aria-hidden="true"> </span> <span class="visually-hidden" data-i18n="footer.fbook.followus"> Follow us on Facebook </span> </span> </a> </li> 
+           <li> <a ga-label="twitter" ga-category="Footer Outbound Link" href="https://twitter.com/ongov"> <span class="iconWrapperLong"> <span class="icon-twitterLong" aria-hidden="true"> </span> <span class="visually-hidden" data-i18n="footer.twitr.followus"> Follow us on Twitter </span> </span> </a> </li> 
+           <li> <a ga-label="youtube" ga-category="Footer Outbound Link" href="https://www.youtube.com/ONgov"> <span class="iconWrapperLong"> <span class="icon-youtubeLong" aria-hidden="true"> </span> <span class="visually-hidden" data-i18n="footer.ytube.followus"> Follow us on YouTube </span> </span> </a> </li> 
+          </ul> 
+         </div> 
+         <div class="small-12 large-7 medium-5 columns owner-branding"> 
+          <div class="row"> 
+           <div class="small-12 large-8 medium-12 columns"> 
+            <h2> <a ga-category="Footer Outbound Link" ga-label="Kathleen Wynne" href="http://www.premier.gov.on.ca/en/"> Kathleen Wynne </a> <br> <span class="subheader" tabindex="0"> 
+              <div data-i18n="footer.minister.title">
+                Premier of Ontario 
+              </div> </span> </h2> 
+            <div class="minister-quote"> 
+             <div> 
+              <p tabindex="0"> "Our government will build Ontario up. Ontario will be the best place to live, from childhood to retirement." </p> 
+             </div> 
+            </div> 
+            <div id="notices" ministry="Cabinet Office" language="en"> 
+             <ul class="inline-list small" aria-label="Secondary navigation" role="navigation"> 
+              <li> <a ga-category="Footer Outbound Link" ga-label="about Ontario" href="https://www.ontario.ca/page/about-ontario"> about Ontario </a> </li> 
+              <li> <a ga-category="Footer Outbound Link" ga-label="accessibility" href="https://www.ontario.ca/page/accessibility "> accessibility </a> </li> 
+              <li> <a ga-category="Footer Outbound Link" ga-label="news " href="https://news.ontario.ca/newsroom/en"> news </a> </li> 
+              <li> <a ga-category="Footer Outbound Link" ga-label="privacy" href="https://www.ontario.ca/page/privacy-statement"> privacy </a> </li> 
+              <li> <a ga-category="Footer Outbound Link" ga-label="terms of use " href="https://www.ontario.ca/page/terms-use"> terms of use </a> </li> 
+             </ul> 
+             <p class="copyright" style="margin-bottom: -5px"> <small> <span> </span> <a ga-label="copyright" ga-category="Footer Outbound Link" href="https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario"> © Queen’s Printer for Ontario, 2012-17 </a> </small> </p> 
+            </div> 
+           </div> 
+           <div class="show-for-large-up large-4 columns"> 
+            <div class="footer-picture" style="background: url('resources/img/kathleenwynne_40_1.jpg') 0 19%"> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="footer-swoosh"> 
+         <div class="footer-swoosh--right"> 
+         </div> 
+        </div> 
+       </div> 
+      </footer> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="lib/jquery-2.1.4.min.js">
+    </script> 
+  <script src="lib/fastclick.js">
+    </script> 
+  <script src="lib/foundation.min-6.2.0.js">
+    </script> 
+  <script src="lib/underscore-min.js">
+    </script> 
+  <script src="lib/backbone-min.js">
+    </script> 
+  <script src="lib/jquery.blockUI.min.js">
+    </script> 
+  <script src="resources/js/bootstrap.js">
+    </script>   
+ </body>
+</html>

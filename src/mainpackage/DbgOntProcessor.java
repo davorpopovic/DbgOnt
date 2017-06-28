@@ -479,12 +479,12 @@ public class DbgOntProcessor extends Thread {
 	            int i = 1;
 	            for (Element info : employee.children()) {
 
-	            	//get the first itteration only
+	            	//get the first iteration only
 	            	if (i == 1) {
 	                	String empData = info.text();
 
-	                	System.out.println(tabString + empData);
-						System.out.println(tabString + "\t\tEMPLOYEE ID: " + employee.select("a").first().text() + "||||" + employee.select("a").attr("data-asnmtid"));
+	                	System.out.println(tabString + empData + " ---> EMPLOYEE ID:" + employee.select("a").attr("data-asnmtid"));
+						//TEMPLATE: http://www.infogo.gov.on.ca/infogo/home.html#empProfile/<EMPLOYEE ID>/en
 	                    
 	                    // extract useful employee data
 	                    
